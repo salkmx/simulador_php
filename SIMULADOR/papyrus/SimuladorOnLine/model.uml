@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_2sgzoAbeEeiiTOxp4ukrbw" name="RootElement">
+  <packagedElement xmi:type="uml:Actor" xmi:id="_LiC4EAbfEeiiTOxp4ukrbw" name="Administrador"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_Ok0FgAbfEeiiTOxp4ukrbw" name="Alumno"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_TKVfIAbfEeiiTOxp4ukrbw" name="Profesor"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_ZeCR0AbfEeiiTOxp4ukrbw" name="UseCase1"/>
+</uml:Model>
